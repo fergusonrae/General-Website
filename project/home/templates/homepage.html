@@ -1,16 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Ferguson Models and Tutorials">
-    <meta name="author" content="Rachael Ferguson">
-    <title>Ferguson Models | Homepage</title>
-  </head>
-  <body>
- 
-<h1>Future site</h1>
- 
-  </body>
-</html>
+{% extends "base.html" %}
+{% block title %}Homepage{% endblock %}
+
+{% block content %}
+    <h1>Ferguson</h1>
+
+    <a role="button" href='/models' class="btn btn-primary btn-lg">Models</a>
+{% endblock %}
