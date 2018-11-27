@@ -1,0 +1,1 @@
+CLIENT_BUCKET_ENDING = '-laughlin-constable'
