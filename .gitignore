@@ -89,3 +89,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# VS Code files
+.vscode/*
+
+# Instance Folder - used for configuration parameters
+/instance
