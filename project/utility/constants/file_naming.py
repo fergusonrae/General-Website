@@ -1,1 +1,1 @@
-CLIENT_BUCKET_ENDING = '-laughlin-constable'
+CLIENT_BUCKET_ENDING = '-website'
