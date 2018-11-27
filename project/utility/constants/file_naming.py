@@ -1,1 +1,0 @@
-CLIENT_BUCKET_ENDING = '-website'
